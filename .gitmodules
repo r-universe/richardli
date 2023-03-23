@@ -8,3 +8,8 @@
 	url = https://github.com/richardli/summer
 	shallow = true
 	registered = true
+[submodule "Tariff"]
+	path = Tariff
+	url = https://github.com/cran/Tariff
+	shallow = true
+	registered = true

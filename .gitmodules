@@ -8,3 +8,6 @@
 [submodule "Tariff"]
 	path = Tariff
 	url = https://github.com/cran/Tariff
+[submodule "surveyPrev"]
+	path = surveyPrev
+	url = https://github.com/richardli/surveyprev

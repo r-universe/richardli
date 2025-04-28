@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "InterVA4"]
-	path = InterVA4
-	url = https://github.com/cran/InterVA4
 [submodule "SUMMER"]
 	path = SUMMER
 	url = https://github.com/richardli/summer
